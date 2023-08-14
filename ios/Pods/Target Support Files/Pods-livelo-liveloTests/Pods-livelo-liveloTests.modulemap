@@ -1,6 +1,0 @@
-module Pods_livelo_liveloTests {
-  umbrella header "Pods-livelo-liveloTests-umbrella.h"
-
-  export *
-  module * { export * }
-}
